@@ -27,7 +27,7 @@ const Contact = () => {
                     transition={{ duration: 0.7 }}>
                     <p className='my-4'>{CONTACT.phoneNo}</p>
                 </motion.div>
-                <a href='#_mail' className='border-b border-gray-400'>{CONTACT.email}</a>
+                <a href='mailto:keyur.glsbca20@gmail.com' className='border-b border-gray-400'>{CONTACT.email}</a>
             </div>
         </div>
     )
