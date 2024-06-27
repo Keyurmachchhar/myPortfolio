@@ -5,7 +5,7 @@ import { HERO_CONTENT } from '../constants/index.js';
 import profilePic from '../assets/mkprofile-1.jpg';
 import { motion } from "framer-motion";
 
-const PDF_URL = "http://localhost:5173/Keyur_Machchhar.pdf"
+const PDF_URL = "https://keyurmachchhar.vercel.app/Keyur_Machchhar.pdf"
 
 const Hero = () => {
 
