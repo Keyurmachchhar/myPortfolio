@@ -73,7 +73,7 @@ const Hero = () => {
                             initial={{ opacity: 0, x: 100 }}
                             transition={{ duration: 1 }}
                             className='flex justify-center items-center'>
-                            <img src={profilePic} alt="profile_pic" className='w-1/2 h-1/2 lg:w-4/5 rounded-xl' />
+                            <img src={profilePic} alt="profile_pic" className='sm:w-1/2 lg:w-4/5 xl:w-3/5 rounded-xl' />
                         </motion.div>
                     </div>
                 </div>
