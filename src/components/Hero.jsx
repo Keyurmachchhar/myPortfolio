@@ -2,7 +2,7 @@ import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { MdOutlineFileDownload } from "react-icons/md";
 import { HERO_CONTENT } from '../constants/index.js';
-import profilePic from '../assets/mkprofile-1.jpg';
+import profilePic from '../assets/mkprofile.jpg';
 import { motion } from "framer-motion";
 
 const PDF_URL = "https://keyurmachchhar.vercel.app/Keyur_Machchhar.pdf"
