@@ -47,14 +47,14 @@ const Projects = () => {
                       </span>
                     </a>
                   </div>
-                  <div>
+{/*                   <div>
                     <a href="#_demo" className="relative p-0.5 inline-flex items-center justify-center font-bold overflow-hidden group rounded-md hover:text-white">
                       <span className="w-full h-full bg-gradient-to-br from-pink-600 via-stone-500 to-purple-600 group-hover:from-purple-600 group-hover:via-slate-500 group-hover:to-pink-600 absolute"></span>
                       <span className="relative px-6 py-3 transition-all ease-out bg-gray-900 rounded-md group-hover:bg-opacity-0 duration-400 ">
                         <span className="relative">Demo</span>
                       </span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
               </motion.div>
             </div>
